@@ -20,6 +20,8 @@ Things you may want to explore:
 
 * Deployment instructions
 
+* The world
+
 * ...
 
 Feel free to use a different markup language if you do not plan to run
